@@ -39,4 +39,11 @@
     "descricao":"caro demais , não temos dinheiro pra comprar",
     "valor":10000.00
     
+},
+{
+    "id":7,
+    "nome":"produtinho baratin",
+    "descricao":"bemm em conta",
+    "valor":100.00
+    
 }]
